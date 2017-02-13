@@ -1,0 +1,22 @@
+h1 {
+	color: rgba(22,22,22,0.5);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+
+li {
+	color: green;
+	border: purple 5px dashed;
+}
+
+h4 {
+	color: purple;
+}
+
+body {
+	background: pink;
+/*	background: url("http://s2.dmcdn.net/Ub1O8/1280x720-mCQ.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

@@ -1,0 +1,16 @@
+body {
+	background: orange;
+}
+
+#special {
+	background: pink;
+	border: 1pt solid purple;
+}
+
+.good {
+	text-decoration: line-through;
+}
+
+li {
+	border: 1pt red solid;
+}
